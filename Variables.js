@@ -33,3 +33,6 @@
 // const a=10
 // a=20 // re-initialization not allowed
 // console.log(a) // error
+
+
+// note :- re-declaration is not a good practice as it leads to wasteage of memory
